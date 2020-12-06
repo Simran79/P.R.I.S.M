@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "576731831631",
+    "firebase_url": "https://prism-2e8c1.firebaseio.com",
+    "project_id": "prism-2e8c1",
+    "storage_bucket": "prism-2e8c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576731831631:android:fdda67ce4bc801db96b93a",
+        "android_client_info": {
+          "package_name": "com.example.PRISM"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576731831631-v1tc7gkdt2ergjgb23p2ptkdss7t4ida.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA-BrmxFyRjUFr6Yz784Q2fDB_e8RDQgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576731831631-v1tc7gkdt2ergjgb23p2ptkdss7t4ida.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
